@@ -1,0 +1,7 @@
+*.bas         eol=crlf
+*.frm         eol=crlf
+*.BAS         eol=crlf
+*.FRM         eol=crlf
+*.cls         eol=crlf
+*.CLS         eol=crlf
+
